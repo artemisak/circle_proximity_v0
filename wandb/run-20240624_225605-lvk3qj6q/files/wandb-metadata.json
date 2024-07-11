@@ -1,0 +1,47 @@
+{
+    "os": "Windows-10-10.0.22631-SP0",
+    "python": "3.11.9",
+    "heartbeatAt": "2024-06-24T19:56:07.032482",
+    "startedAt": "2024-06-24T19:56:05.002297",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "C:\\Users\\artis\\Desktop\\circle_proximity_v0\\dqn_rl_agents.py",
+    "codePathLocal": "dqn_rl_agents.py",
+    "codePath": "dqn_rl_agents.py",
+    "host": "artem-desktop",
+    "username": "artis",
+    "executable": "C:\\Users\\artis\\Desktop\\circle_proximity_v0\\.venv\\Scripts\\python.exe",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 3312.0,
+        "min": 0.0,
+        "max": 3312.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3312.0,
+            "min": 0.0,
+            "max": 3312.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 464.88476181030273,
+            "used": 204.62467193603516
+        }
+    },
+    "gpu": "NVIDIA GeForce GTX 1660 SUPER",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1660 SUPER",
+            "memory_total": 6442450944
+        }
+    ],
+    "memory": {
+        "total": 15.91219711303711
+    }
+}
